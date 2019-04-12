@@ -1,6 +1,6 @@
 ## About Daily Exercise Routine Application(DERA)
 
-<!-- <p align="center"><img src="logo-1.svg" width = "150" , height = "150"></p> -->
+<p align="center"><img src="exercise-01.svg" width = "150" , height = "150"></p>
 
 It contains an android application which handle your daily exercise routine, such as:
 
